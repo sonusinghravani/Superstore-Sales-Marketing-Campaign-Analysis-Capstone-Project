@@ -107,7 +107,7 @@ identify 69% more potential buyers compared to the baseline model.
 
 ---
 ## Dashbaord Preview Link
-https://github.com/sonusinghravani/Superstore-Sales-Marketing-Campaign-Analysis-Capstone-Project/blob/main/Dashboard/Sales%20Power%20Bi%20both%20Dashboard%20.pdf
+https://github.com/sonukumardataanalyst5/Superstore-Sales-Marketing-Campaign-Analysis-Capstone-Project/blob/main/Dashboard/Sales%20Power%20Bi%20both%20Dashboard%20.pdf
 
 
 ## 🧑‍💻 Author
